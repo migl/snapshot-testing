@@ -121,7 +121,3 @@ it "serializes a person" do
   expect(Person.new).to match_snapshot
 end
 ```
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/rzane/snapshot_testing.
