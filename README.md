@@ -1,4 +1,4 @@
-# :camera: Snapshot Testing [![Build Status](https://travis-ci.org/rzane/snapshot_testing.svg?branch=master)](https://travis-ci.org/rzane/snapshot_testing)
+# :camera: Snapshot Testing
 
 Snapshot testing for all Ruby test frameworks.
 
